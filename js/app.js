@@ -11,10 +11,10 @@
    ----------------------------------------------- */
 
 const MENSAJES = {
-  superiorIzquierda: "",
-  superiorDerecha:   "",
-  inferiorDerecha:   "",
-  inferiorIzquierda: "",
+  superiorIzquierda: "No ha pasado demasiado tiempo desde volvimos a hablar, a vernos, a decirnos te amo 💖(buen par de intensos)",
+  superiorDerecha:   "no quiero perder mas oportunidades contigo, eres a quien amo y con quiero estar",
+  inferiorDerecha:   "te amo demasiado, tu carita, tu sonrisa, tu baile de comida rica, tu mirada nerviosa, todo tu ser",
+  inferiorIzquierda: "hay algo que quiero preguntarte, quise hacerlo de una manera entretenida con las cosas nuevas que aprendi",
   central:           "¿Quieres ser mi novia? 💖"
 };
 
