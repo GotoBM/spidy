@@ -11,11 +11,11 @@
    ----------------------------------------------- */
 
 const MENSAJES = {
-  superiorIzquierda: "✏️ ESCRIBE AQUÍ el mensaje de la flor superior izquierda",
-  superiorDerecha:   "✏️ ESCRIBE AQUÍ el mensaje de la flor superior derecha",
-  inferiorDerecha:   "✏️ ESCRIBE AQUÍ el mensaje de la flor inferior derecha",
-  inferiorIzquierda: "✏️ ESCRIBE AQUÍ el mensaje de la flor inferior izquierda",
-  central:           "✏️ ESCRIBE AQUÍ el mensaje de la flor central (el último que verá)"
+  superiorIzquierda: "",
+  superiorDerecha:   "",
+  inferiorDerecha:   "",
+  inferiorIzquierda: "",
+  central:           "¿Quieres ser mi novia? 💖"
 };
 
 /* -----------------------------------------------
