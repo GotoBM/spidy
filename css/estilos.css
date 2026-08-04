@@ -146,21 +146,21 @@ html, body {
 /* Flores de esquina */
 .flor-esquina {
   position: absolute;
-  width: 120px;
-  height: 120px;
+  width: 220px;
+  height: 220px;
   cursor: pointer;
 }
 
-#flor-sup-izq { top: 10px; left: 10px; }
-#flor-sup-der { top: 10px; right: 10px; }
-#flor-inf-der { bottom: 10px; right: 10px; }
-#flor-inf-izq { bottom: 10px; left: 10px; }
+#flor-sup-izq { top: -28px; left: -28px; }
+#flor-sup-der { top: -28px; right: -28px; }
+#flor-inf-der { bottom: -28px; right: -28px; }
+#flor-inf-izq { bottom: -28px; left: -28px; }
 
 /* Flor central */
 #flor-central {
   position: absolute;
-  width: 180px;
-  height: 180px;
+  width: 280px;
+  height: 280px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
